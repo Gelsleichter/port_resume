@@ -24,8 +24,10 @@ youtube_username: globalmtb
 about_title: Sobre mim 
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Sou Yuri Andrei Gelsleichter, ... programador em R especializado em Análise e Visualização de Dados...
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Sou Yuri Andrei Gelsleichter, ... programador em <mark> R </mark> especializado em <mark> Análise e Visualização de Dados </mark>...
+  [Veja este currículo em inglês](https://gelsleichter.github.io/en_resume/) (This resume in English) 
+  
+  
 # Projects Section 
 projects_title: Meus Projetos
 
