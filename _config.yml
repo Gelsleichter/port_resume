@@ -24,7 +24,7 @@ linkedin_username: yurigelsleichter
 
 # About Section 
 about_title: Sobre mim 
-about_profile_image: images/Yuri_busto.jpg
+#about_profile_image: images/Yuri_busto.jpg
 about_content: | # this will include new lines to allow paragraphs
   Sou Yuri Andrei Gelsleichter, cientista do solo especializado em <mark> Mapeamento Digital de Solos </mark> e Radiometria de Solos. Minha linguagem preferia é <mark> R </mark>, 
  onde sou muito bom em limpeza, análise e visualização de <mark> dados </mark> tabulados, e também modelagem de dados espaciais com <mark> Machine Learning </mark>. 
