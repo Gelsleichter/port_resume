@@ -1,5 +1,5 @@
 # Site
-repository: gelsleichter/en_resume
+repository: gelsleichter/port_resume
 favicon: images/favicon.ico
 
 # Personal info
@@ -15,7 +15,7 @@ github_username:  yurigelsleichter
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: gelsleichteryuri
+# instagram_username: gelsleichteryuri
 linkedin_username: yurigelsleichter
 # pinterest_username: jekyll
 # youtube_username: yurigelsleichter
