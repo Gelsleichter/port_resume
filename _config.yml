@@ -1,14 +1,12 @@
 # Site
 repository: gelsleichter/port_resume
-# repository: github.com/Gelsleichter/port_resume
 favicon: images/favicon.ico
 
 # Personal info
 name: Yuri Gelsleichter
 title: Doutor em Ciência, Tecnologia e Inovação em Agropecuária
 email: yurigelsleichter@gmail.com
-website: https://oficinador.com.br
-# website: https://gelsleichter.github.io/
+website: https://gelsleichter.github.io/
 
 # Social links
 # twitter_username: facespics
@@ -16,19 +14,18 @@ github_username:  yurigelsleichter
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-# instagram_username: gelsleichteryuri
+instagram_username: yurigelsleichter
 linkedin_username: yurigelsleichter
 # pinterest_username: jekyll
-# youtube_username: yurigelsleichter
+youtube_username: yurigelsleichter
 # googleplus_username: +jekyll
 
 # About Section 
 about_title: Sobre mim 
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Sou Yuri Andrei Gelsleichter, cientista do solo especializado em <mark> Mapeamento Digital de Solos </mark> e Radiometria de Solos. Minha linguagem preferia é <mark> R </mark>, 
- onde sou muito bom em limpeza, análise e visualização de <mark> dados </mark> tabulados, e também modelagem de dados espaciais com <mark> Machine Learning </mark>. 
-  [Veja este currículo em inglês 🇺🇸](https://gelsleichter.github.io/en_resume/). 
+  Sou Yuri Andrei Gelsleichter, ... programador em <mark> R </mark> especializado em <mark> Análise e Visualização de Dados </mark>...
+  [Veja este currículo em inglês](https://gelsleichter.github.io/en_resume/) (This resume in English) 
   
   
 # Projects Section 
