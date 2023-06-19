@@ -25,8 +25,12 @@ linkedin_username: yurigelsleichter
 about_title: Sobre mim 
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Sou Yuri Andrei Gelsleichter, ... programador em <mark> R </mark> especializado em <mark> Análise e Visualização de Dados </mark>...
-  [Veja este currículo em inglês](https://gelsleichter.github.io/en_resume/) (This resume in English) 
+  Sou Yuri Andrei Gelsleichter, Técnico em Mecânica (IFSC, 2004), Engenheiro Ambiental (UNISUL, 2015), Doutor em Ciência, 
+  Tecnologia e Inovação em Agropecuária (UFRRJ, 2020), Pós Doutorado (Universidade Húngara de Ciências Agrárias, 2023). 
+  Durante essa trajetória me tornei especialista em <mark> Mapeamento Digital de Solos e meio ambinete <mark>, 
+  <mark> Análise e Visualização de Dados </mark>, aplicando a <mark> linguagem R </mark> especializado em ...
+  
+ # [Veja este currículo em inglês](https://gelsleichter.github.io/en_resume/) (This resume in English) 
   
   
 # Projects Section 
