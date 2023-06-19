@@ -1,11 +1,11 @@
 # Site
 repository: gelsleichter/port_resume
-favicon: images/favicon.ico 
-# profile.jpg
+favicon: images/profile.jpg 
+#favicon: images/favicon.ico 
 
 # Personal info
 name: Yuri Gelsleichter
-title: Mapeamento Digital de Solos e Meio Ambiente, 
+title: Mapeamento digital de solos, GIS, monitoramento via satélite e agricultura de precisão
 email: yurigelsleichter@gmail.com
 # website: https://gelsleichter.github.io/
 website: https://datasitu.com
@@ -28,10 +28,14 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Sou Yuri Andrei Gelsleichter, Técnico em Mecânica (IFSC, 2004), Engenheiro Ambiental (UNISUL, 2015), Doutor em Ciência, 
   Tecnologia e Inovação em Agropecuária (UFRRJ, 2020), Pós Doutorado (Universidade Húngara de Ciências Agrárias, 2023). 
-  Atualmente trabalhando também com sensoriamento remoto, mineração e automação de dados e pesquisas na área de classificação de solos e espectro radiometria. 
-  Durante essa trajetória me tornei especialista em <mark> Mapeamento Digital de Solos e Meio Ambiente <mark>, 
-  <mark> Análise e Visualização de Dados </mark>, aplicando a <mark> linguagem R </mark> de programação. 
-  <!-- [Veja este currículo em inglês](https://gelsleichter.github.io/en_resume/) (This resume in English) -->
+
+  Atualmente trabalhando também com sensoriamento remoto, mineração e automação de dados e pesquisas na área de classificação de solos e 
+  espectro radiometria e agricultura de precisão. 
+  
+  Durante essa trajetória me tornei especialista em Mapeamento Digital de Solos e Meio Ambiente, Agricultura de precisão
+  Análise e Visualização de Dados, aplicando a linguagem R de programação. 
+  
+  <!-- aplicando a <mark> linguagem R </mark> de programação. [Veja este currículo em inglês](https://gelsleichter.github.io/en_resume/) (This resume in English) -->
   
   
 # Projects Section 
