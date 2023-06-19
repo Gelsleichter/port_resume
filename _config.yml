@@ -1,6 +1,7 @@
 # Site
 repository: gelsleichter/port_resume
-favicon: images/profile.jpg
+favicon: images/favicon.ico 
+# profile.jpg
 
 # Personal info
 name: Yuri Gelsleichter
