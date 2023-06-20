@@ -23,7 +23,7 @@ linkedin_username: yurigelsleichter
 # googleplus_username: +jekyll
 
 # About Section 
-about_title: Sobre mim 
+about_title: Sobre 
 about_profile_image: images/yuri_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Sou Yuri Andrei Gelsleichter, Técnico em Mecânica (IFSC, 2004), Engenheiro Ambiental (UNISUL, 2015), Doutor em Ciência, 
@@ -50,11 +50,22 @@ educaton_title: Educação
 more_title: Publicações mais importantes
 more_content: | # this will include new lines to allow paragraphs
   Trabalhos recentes mais relevantes: 
-  - Enhancing Soil Mapping with Hyperspectral Subsurface Images generated from soil lab Vis-SWIR spectra tested in southern Brazil; 2023; Gelsleichter, Y.A.; Costa, E.M,; Anjos, L.H.C.; Marcondes, R.A.T; [doi](https://doi.org/10.1016/j.geodrs.2023.e00641)
-  - Past and Future Responses of Soil Water to Climate Change in Tropical and Subtropical Rainforest Systems in South America; 2023; Arévalo, S.M.M.; Delgado, R.C.; Lindemann, D.S.; Gelsleichter, Y.A.; Pereira, M.G.; Rodrigues, R.A.; Justino, F.B.; Wanderley, H.S.; Zonta, E.; Santana, R.O.; Souza; R.S.; [doi](https://doi.org/10.3390/atmos14040755)
-  - Degradation of South American biomes, What to expect for the future?; Delgado, R.C.; Santana, R.O.; Gelsleichter, Y.A.; Pereira, M.G.; [doi](https://doi.org/10.1016/j.eiar.2022.106815)
-  - Mapping soil properties in a poorly-accessible area; Costa, E.M.; Pinheiro, H.S.K.; Anjos, L.H.C; Marcondes, R.A.T.; Gelsleichter, Y.A.; [doi](https://doi.org/10.36783/18069657rbcs20190107)
-  - Spatial Bayesian belief networks, a participatory approach for mapping environmental vulnerability at the Itatiaia National Park, Brazil; Costa, E.M.; Pinheiro, H.S.K.; Anjos, L.H.C; Gelsleichter, Y.A.; Marcondes, R.A.T.; [doi](https://doi.org/10.1007/s12665-020-09099-9)
+  
+  Enhancing Soil Mapping with Hyperspectral Subsurface Images generated from soil lab Vis-SWIR spectra tested in southern Brazil; 2023; 
+  Gelsleichter, Y.A.; Costa, E.M,; Anjos, L.H.C.; Marcondes, R.A.T; [doi](https://doi.org/10.1016/j.geodrs.2023.e00641)
+  
+  Past and Future Responses of Soil Water to Climate Change in Tropical and Subtropical Rainforest Systems in South America; 2023; 
+  Arévalo, S.M.M.; Delgado, R.C.; Lindemann, D.S.; Gelsleichter, Y.A.; Pereira, M.G.; Rodrigues, R.A.; Justino, F.B.; Wanderley, H.S.; 
+  Zonta, E.; Santana, R.O.; Souza; R.S.; [doi](https://doi.org/10.3390/atmos14040755)
+  
+  Degradation of South American biomes, What to expect for the future?; Delgado, R.C.; Santana, R.O.; Gelsleichter, Y.A.; 
+  Pereira, M.G.; [doi](https://doi.org/10.1016/j.eiar.2022.106815)
+  
+  Mapping soil properties in a poorly-accessible area; Costa, E.M.; Pinheiro, H.S.K.; Anjos, L.H.C; Marcondes, R.A.T.; 
+  Gelsleichter, Y.A.; [doi](https://doi.org/10.36783/18069657rbcs20190107)
+  
+  Spatial Bayesian belief networks, a participatory approach for mapping environmental vulnerability at the Itatiaia National Park, Brazil; 
+  Costa, E.M.; Pinheiro, H.S.K.; Anjos, L.H.C; Gelsleichter, Y.A.; Marcondes, R.A.T.; [doi](https://doi.org/10.1007/s12665-020-09099-9)
 
 # Footer
 footer_show_references: false
