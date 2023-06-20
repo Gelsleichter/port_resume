@@ -44,15 +44,15 @@ projects_title: Projetos Recentes
 experience_title: Experiências internacionais 
 
 # Education Section 
-educaton_title: Educação 
+educaton_title: sdf
 
 # More Section
-more_title: Publicações mais importantes
+more_title: Publicações recentes 
 more_content: | # this will include new lines to allow paragraphs
   Trabalhos recentes mais relevantes: 
   
   Enhancing Soil Mapping with Hyperspectral Subsurface Images generated from soil lab Vis-SWIR spectra tested in southern Brazil; 2023; 
-  Gelsleichter, Y.A.; Costa, E.M,; Anjos, L.H.C.; Marcondes, R.A.T; [doi](https://doi.org/10.1016/j.geodrs.2023.e00641)
+  Gelsleichter, Y.A.; Costa, E.M,; Anjos, L.H.C.; Marcondes, R.A.T; doi: https://doi.org/10.1016/j.geodrs.2023.e00641
   
   Past and Future Responses of Soil Water to Climate Change in Tropical and Subtropical Rainforest Systems in South America; 2023; 
   Arévalo, S.M.M.; Delgado, R.C.; Lindemann, D.S.; Gelsleichter, Y.A.; Pereira, M.G.; Rodrigues, R.A.; Justino, F.B.; Wanderley, H.S.; 
