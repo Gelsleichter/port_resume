@@ -3,9 +3,10 @@
   dates: 2017 - 2020
   qualification: Doutor em Ciência, Tecnologia e Inovação em Agropecuária
   quote: >
-    A UNISUL ...
+    Fundada em 1910 a UFRRJ tem tradição em pesquisa e ensino na Agronomia
   description: | # this will include new lines to allow paragraphs
-    Além do ente... 
+    Nesta fase da minha vida profissional agregue uma bagagem muito grande de conhecimentos sobre Solos e 
+    Sensoriamento Remoto e Sistemas de Informações Geográficas aplicados em programação R, onde aprendi também sobre fluxo e automação de dados
 
 - layout: left
   name: Universidade do Sul de Santa Catarina
@@ -19,13 +20,8 @@
 - layout: left
   name: Instituto Federal de Santa Catarina
   dates: 2003 - 2004
-  qualification: Técnico em Mecânica Indistrial
+  qualification: Técnico em Mecânica Industrial
   quote: >
     O IFSC criado em 1909 em Florianópolis, Santa Catarina, tem tradição em ensino     
   description: | # this will include new lines to allow paragraphs
     Durante o curso adquiri muito conhecimento sobre a Mecânica industrial incluindo metrologia, projetos e processos de fabricação 
-
-
-
-Técnico em Mecânica (IFSC, 2004), Engenheiro Ambiental (UNISUL, 2015), Doutor em Ciência, Tecnologia e Inovação em Agropecuária (UFRRJ, 2020), 
-Pós Doutorado (Universidade Húngara de Ciências Agrárias, 2023).
