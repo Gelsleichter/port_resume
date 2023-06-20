@@ -1,8 +1,23 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
+  name: Mapeamento de solos no Parque Nacional de Itatiaia
+  link: doi.org/10.1016/j.geodrs.2023.e00641
   github: sproogen/resume-theme
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    O incrível desse projeto foi aplicar sensoriamento remoto proximal em imagens de satélite para quase dobrar a capacidade preditiva do modelo
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Os produtos de Sensoriamento Remoto são aplicáveis para a predição espacial das propriedades do solo, no processo chamado 
+    Mapeamento Digital do Solo (DSM). 
+    
+    O objetivo do estudo foi combinar os espectros Vis-SWIR do laboratório de solo com a técnica DSM para criar novas imagens hiperespectrais 
+    para usar como covariáveis em um novo método de mapeamento de solo. 
+    
+    As vantagens do método foram demonstradas ao longo da predição espacial do teor de Carbono Total em solos da parte alta do 
+    Parque Nacional do Itatiaia. Usando informações dos espectros Vis-SWIR do horizonte superior do solo de 72 pontos na parte superior do INP, 
+    130 imagens hiperespectrais foram geradas, ou seja, imagem hiperespectral de subsuperfície. Os métodos de validação foram validação cruzada (CV) 
+    de 8 vezes e validação externa executados usando o algoritmo Random Forest. 
+    
+    O DSM atinge um coeficiente médio de determinação (R2) na CV de 0,39 e Root Mean Square Error (RMSE) de 4,6, enquanto a criação de um novo modelo 
+    com um conjunto de imagens hiperespectrais deu um CV R2 de 0,60 e RMSE de 4,06. 
+    
+    O método pode ser aplicado em áreas densas ou com pouca vegetação, para fins agrícolas ou de conservação, para diversas propriedades do solo, 
+    com todos e cada comprimento de onda.
