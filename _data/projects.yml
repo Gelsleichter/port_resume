@@ -1,4 +1,15 @@
 - layout: top-middle
+  name: Open Science to Increase Reproducibility In Science (OSIRIS) 
+  link: https://osiris4r.eu/
+  github: sproogen/resume-theme
+  quote: >
+    A reprodutibilidade na ciência precisa ser padronizada com protocolos e check lists 
+  description: | # this will include new lines to allow paragraphs
+    A reprodutibilidade é essencial para a qualidade da Pesquisa e Inovação (P&I) mas atualmente é limitada. 
+    No projeto meu papel é testar e contribuir para a reprodutibilidade computacional, buscando desenvolver protocolos e check lists 
+    para melhoria em P&I.
+    
+- layout: top-middle
   name: Mapeamento de solos no Parque Nacional de Itatiaia
   link: doi.org/10.1016/j.geodrs.2023.e00641
   github: sproogen/resume-theme
