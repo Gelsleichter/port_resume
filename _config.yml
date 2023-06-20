@@ -5,7 +5,7 @@ favicon: images/Yuri_ico.png
 
 # Personal info
 name: Yuri Gelsleichter
-title: Mapeamento digital de solos, GIS, monitoramento via satélite e agricultura de precisão
+title: Mapeamento digital de solos, GIS, monitoramento via satélite e agricultura de precisão [English CV 🇺🇸](https://gelsleichter.github.io/en_resume/) 
 email: yurigelsleichter@gmail.com
 # website: https://gelsleichter.github.io/
 website: https://datasitu.com
@@ -33,7 +33,7 @@ about_content: | # this will include new lines to allow paragraphs
   Análise e Visualização de Dados aplicando a linguagem R de programação. 
 
   Atualmente trabalhando também com sensoriamento remoto, mineração e automação de dados e pesquisas na área de classificação de solos e 
-  espectro radiometria e agricultura de precisão. 
+  espectro radiometria e agricultura de precisão. Co-fundador da (Data Situ](https://datasitu.com).
     
   <!-- aplicando a <mark> linguagem R </mark> de programação. [Veja este currículo em inglês](https://gelsleichter.github.io/en_resume/) (This resume in English) -->
   
