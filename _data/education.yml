@@ -1,10 +1,31 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+  name: Universidade Federal Rural do Rio de Janeiro
+  dates: 2017 - 2020
+  qualification: Doutor em Ciência, Tecnologia e Inovação em Agropecuária
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    A UNISUL ...
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    Além do ente... 
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+- layout: left
+  name: Universidade do Sul de Santa Catarina
+  dates: 2009 - 2015
+  qualification: Bahcarel em Engenharia Ambiental e Sanitária
+  quote: >
+    A UNISUL está consolidada como polo educacional na grande Florianópolis 
+  description: | # this will include new lines to allow paragraphs
+    Além do entendimento no trato e manejo ambiental, tratamento de águas e resíduos tive meu despertar para Sensoriamento Remoto e Sistemas de Informações Geográficas
+
+- layout: left
+  name: Instituto Federal de Santa Catarina
+  dates: 2003 - 2004
+  qualification: Técnico em Mecânica Indistrial
+  quote: >
+    O IFSC criado em 1909 em Florianópolis, Santa Catarina, tem tradição em ensino     
+  description: | # this will include new lines to allow paragraphs
+    Durante o curso adquiri muito conhecimento sobre a Mecânica industrial incluindo metrologia, projetos e processos de fabricação 
+
+
+
+Técnico em Mecânica (IFSC, 2004), Engenheiro Ambiental (UNISUL, 2015), Doutor em Ciência, Tecnologia e Inovação em Agropecuária (UFRRJ, 2020), 
+Pós Doutorado (Universidade Húngara de Ciências Agrárias, 2023).
