@@ -38,19 +38,13 @@ about_content: | # this will include new lines to allow paragraphs
   <!-- aplicando a <mark> linguagem R </mark> de programação. [Veja este currículo em inglês](https://gelsleichter.github.io/en_resume/) (This resume in English) -->
   
 # Projects Section 
-projects_title: Projetos
+projects_title: Projetos Recentes
 
 # Experience Section 
 experience_title: Experiências internacionais 
 
 # Education Section 
 educaton_title: Educação 
-
-# More Section
-more_title: Experiências Acadêmicas
-more_content: | # this will include new lines to allow paragraphs
-   - Rock climbing
-   - Knitting
 
 # More Section
 more_title: Publicações mais importantes
@@ -62,7 +56,7 @@ more_content: | # this will include new lines to allow paragraphs
    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
